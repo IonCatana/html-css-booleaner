@@ -9,7 +9,7 @@ body{
     width: 43%;
     margin: auto;
 }
-
+/* <!-- Inizio Header --> */
 header{
     background-image: url(img/pattern.png);
     background-repeat: repeat;
@@ -24,6 +24,9 @@ header{
     width: 30%;
     height: 150px;
 }
+/* Fine Header */
+
+/* Inizio titolo */
 .scritto-style{
     color: gray;
     font-size: 16px; 
@@ -37,9 +40,15 @@ header{
     font-size: 16px;
     
 }
+/* Fine titolo */
+
+/* Inizio foto */
 .img-tim{
     padding-top: 20px;
 }
+/* Fine foto */
+
+/* Inizio tabela */
 .table-row{
     table-layout: fixed;
     border-spacing: 0;
@@ -71,18 +80,27 @@ td{
 .tbody3-width{
     width: 50%;
 }
+/* Fine tabela */
+
+/* Inizio paragrafo */
 .div-p{
     padding-top: 20px;
 }
 .text-style{
-    background-color: yellow ;
+    background-color: yellow ;    
 }
+/* Fine paragrafo */
+
+/* Inizio paragrafo e list */
 .p-style{
     padding-top: 20px;
 }
 .list-style{
     padding-top: 20px;
 }
+/* Inizio paragrafo e list */
+
+/* Inizio footer */
 .footer{
     padding-top: 20px;
 }
@@ -91,3 +109,4 @@ td{
     font-size: 22px;
     padding-bottom: 10px;
 }
+/* Fine footer */
