@@ -14,8 +14,7 @@ header{
     background-image: url(img/pattern.png);
     background-repeat: repeat;
     width: 100%;      
-    background-color: rgb(67, 149, 243);
-   
+    background-color: rgb(67, 149, 243);   
 }
 
 .logo-svg{
@@ -36,8 +35,7 @@ header{
 }
 .booleaner-style{
     color: rgb(96, 180, 236);
-    font-size: 16px;
-    
+    font-size: 16px;    
 }
 /* Fine titolo */
 
@@ -68,10 +66,8 @@ th{
 td{
     height: 50px;
 }
-
 .tbody1{
-    background-color: rgb(162, 234, 247);
-       
+    background-color: rgb(162, 234, 247);       
 }
 .tbody2{
     background-color: white;
@@ -110,5 +106,29 @@ td{
     color: gray;
     font-size: 22px;
     padding-bottom: 10px;
+}
+.img-monitor{
+    margin-top: 8px;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 275px;
+    height: 207px;    
+}
+.style-text1{
+    color: white;    
+    padding-left: 20px;    
+    font-size: 25px;
+}
+.img-graph{
+    margin-top: 12px;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 275px;
+    height: 207px;
+}
+.style-text2{
+    color: white;    
+    padding-left: 20px;    
+    font-size: 25px;
 }
 /* Fine footer */
